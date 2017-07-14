@@ -1,4 +1,3 @@
-Hello
-My name is Maxs
-
-Actually its Nathan
+A line of text 
+another line of text
+yet another line of text
