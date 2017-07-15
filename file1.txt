@@ -2,4 +2,5 @@ A line of text
 another line of text
 yet another line of text
 Hello WHEN my clone line
-
+Added a new line in my clone
+i
