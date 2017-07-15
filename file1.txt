@@ -2,3 +2,5 @@ A line of text
 another line of text
 yet another line of text
 Hello
+
+A new line of text
